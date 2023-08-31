@@ -1,5 +1,7 @@
+import MediaQueryComponent from "./MediaQueryComponent";
+
 function App() {
-  return <div className="App"></div>;
+  return <MediaQueryComponent />;
 }
 
 export default App;
